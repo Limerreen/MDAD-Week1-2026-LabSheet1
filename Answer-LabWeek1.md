@@ -4,21 +4,22 @@
 
 ```
 flutter doctor output:
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  วางผลลัพธ์จาก flutter doctor ที่นี่                    │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+```
+<img width="1200" height="342" alt="image" src="https://github.com/user-attachments/assets/b497ee2d-ec92-4954-8bb0-c8ae9b75f63c" />
 
-Flutter Version: ___________________
+
+Flutter Version: 3.44.4
+
 Dart Version: ______________________
-Android SDK Version: _______________
+
+Android SDK Version: 36.0.0
 ```
 
 ### 3.2 Screenshot ของ Flutter App
 
 ```
-[แนบ Screenshot ของ Profile Card App ที่สร้าง]
+<img width="1295" height="995" alt="image" src="https://github.com/user-attachments/assets/b4225566-ea9f-449d-b1a9-876b9f9df06c" />
+
 ```
 
 **Widget Tree ที่วาด:**
